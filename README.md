@@ -4,7 +4,7 @@ A comprehensive external SQA audit of the EventHub project, demonstrating profes
 
 ## Overview
 
-This project showcases professional software quality assurance skills through an in-depth audit of a fictional EventHub project experiencing critical quality issues. The audit demonstrates systematic analysis across testing strategy, defect management, organizational culture, and ethical considerations, culminating in prioritized, actionable recommendations.
+This project showcases professional software quality assurance skills through an in-depth audit of a fictional EventHub project experiencing critical quality issues. The audit demonstrates systematic analysis across testing strategy, defect management, organizational culture, and ethical considerations, culminating in prioritized, actionable recommendations. Project is demonstrated within React.js environment.
 
 ## Project Context
 
@@ -161,4 +161,4 @@ This project showcases professional software quality assurance skills through an
 
 ## Project Context
 
-Developed for **COMP-2136: Software Quality Assurance** at George Brown College. This assignment demonstrates professional-level QA audit skills applicable to real-world software project assessment, quality improvement planning, and ethical software engineering practice.
+This assignment demonstrates professional-level QA audit skills applicable to real-world software project assessment, quality improvement planning, and ethical software engineering practice. 
