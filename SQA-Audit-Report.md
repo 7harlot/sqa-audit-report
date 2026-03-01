@@ -1,31 +1,10 @@
-
----
 <div align="center">
 
 # SQA Audit Report: EventHub Project
 
 **External Quality Assurance Assessment**
 
----
-
-**COMP 2136: Software Quality Assurance**
-**Assignment 3: Group SQA Audit & Improvement Plan**
-
----
-
-**Submitted by:**
-Ben Morrison,
-101572409
-
----
-
-**Due Date:** November 28, 2025
-
----
-
 </div>
-
----
 
 ## Introduction
 
